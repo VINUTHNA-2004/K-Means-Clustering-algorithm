@@ -8,19 +8,19 @@ To write a python program to implement K-Means Clustering Algorithm.
 ## Algorithm:
 
 ### Step1
-<br>
+
 load the csv into a dataframe
 ### Step2
-<br>
+
 print the number of contents to be displayed using df.head().
 ### Step3
-<br>
+
 the number of rows returned is defined in pandas options settings
 ### Step4
-<br>
+
 check your system's maximum column with the pd.options.display.max_column statement
 ### Step5
-<br>
+
 increase the maximum number of rows to display entire data frame
 ## Program:
 ```
